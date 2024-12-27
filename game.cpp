@@ -7,15 +7,15 @@
 
 int main()
 {
-    const int windowWidth = 384;
-    const int windowHeight = 384;
+    const int windowWidth = 1284;
+    const int windowHeight = 1284;
 
     InitWindow(windowWidth, windowHeight, "Game 3");
 
     // Map
     Texture2D map = LoadTexture("tileset/map.png");
     Vector2 mapPos = {0.0, 0.0};
-    const float mapScale{4.0f};
+    const float mapScale{6.0f};
 
     // Draw knight
     Character knight{windowWidth, windowHeight};
