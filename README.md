@@ -7,7 +7,7 @@ This is a 2D RPG game built from scratch using **C++**. The game immerses player
 <table>
   <tr>
     <td>
-      <img src="screenshots/game3_1.png" alt="Game Screenshot" width="444">
+      <img src="screenshots/game3_1.png" alt="Game Screenshot" width="1444">
     </td>
     <td>
       <b>Gameplay Screenshot:</b>
